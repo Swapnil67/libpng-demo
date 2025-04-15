@@ -1,0 +1,4 @@
+*.dSYM
+libpng
+*.png
+*.ppm
